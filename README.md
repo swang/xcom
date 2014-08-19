@@ -5,4 +5,5 @@ xcom-ish stuff
 
 todo
 ====
-- [ ] find name generator
+- [x] find name generator
+- [ ] generate name generator
