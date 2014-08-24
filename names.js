@@ -2,9 +2,9 @@
 // ; -------------- AMERICAN ------------------
 // ; ------------------------------------------
 
-module.exports.america = {}
+module.exports.american = {}
 
-module.exports.america.male = [
+module.exports.american.male = [
   "Shane",
   "Rob",
   "Brad",
@@ -61,7 +61,7 @@ module.exports.america.male = [
   "Derek"
 ]
 
-module.exports.america.female = [
+module.exports.american.female = [
   "Mary",
   "Lisa",
   "Elizabeth",
@@ -125,7 +125,7 @@ module.exports.america.female = [
   "Brittany"
 ]
 
-module.exports.america.lastName = [
+module.exports.american.lastName = [
   "Freeman",
   "Jefferson",
   "Washington",
@@ -431,9 +431,9 @@ module.exports.russian.female.lastName = [
 // ; ------------------------------------------
 // ; -------------- CHINESE -------------------
 // ; ------------------------------------------
-module.exports.china = {}
+module.exports.chinese = {}
 
-module.exports.china.male = [
+module.exports.chinese.male = [
   "Wei",
   "Hao",
   "Dong",
@@ -462,7 +462,7 @@ module.exports.china.male = [
   "Ye"
 ]
 
-module.exports.china.female = [
+module.exports.chinese.female = [
   "Ying",
   "Ping",
   "Xue",
@@ -483,7 +483,7 @@ module.exports.china.female = [
   "Li Wei"
 ]
 
-module.exports.china.lastName = [
+module.exports.chinese.lastName = [
   "Li",
   "Wang",
   "Zhang",
@@ -521,8 +521,8 @@ module.exports.china.lastName = [
 // ; -------------- INDIAN  -------------------
 // ; ------------------------------------------
 
-module.exports.india = {}
-module.exports.india.male = [
+module.exports.indian = {}
+module.exports.indian.male = [
   "Ananda",
   "Abhijit",
   "Jowar",
@@ -557,7 +557,7 @@ module.exports.india.male = [
   "Yash"
 ]
 
-module.exports.india.female = [
+module.exports.indian.female = [
   "Arpita",
   "Ekta",
   "Kanyakumari",
@@ -585,7 +585,7 @@ module.exports.india.female = [
   "Tanvi",
   "Varsha"
 ]
-module.exports.india.lastName = [
+module.exports.indian.lastName = [
   "Sharma",
   "Varma",
   "Gupta",
@@ -636,9 +636,9 @@ module.exports.india.lastName = [
 // ; ------------------------------------------
 // ; -------------- AFRICAN -------------------
 // ; ------------------------------------------
-module.exports.africa = {}
+module.exports.african = {}
 
-module.exports.africa.male = [
+module.exports.african.male = [
   "Abimbola",
   "Abioye",
   "Adegoke",
@@ -695,7 +695,7 @@ module.exports.africa.male = [
   "Thabo"
 ]
 
-module.exports.africa.female = [
+module.exports.african.female = [
   "Aba",
   "Abebi",
   "Akili",
@@ -763,7 +763,7 @@ module.exports.africa.female = [
   "Zarina"
 ]
 
-module.exports.africa.lastName = [
+module.exports.african.lastName = [
   "Baloyi",
   "Bapela",
   "Bengu",
@@ -827,9 +827,9 @@ module.exports.africa.lastName = [
 // ; ------------------------------------------
 // ; -------------- MEXICAN -------------------
 // ; ------------------------------------------
-module.exports.mexico = {}
+module.exports.mexican = {}
 
-module.exports.mexico.male = [
+module.exports.mexican.male = [
   "Alejandro",
   "Juan Carlos",
   "Miguel",
@@ -864,7 +864,7 @@ module.exports.mexico.male = [
   "Victor"
 ]
 
-module.exports.mexico.female = [
+module.exports.mexican.female = [
   "Adriana",
   "Ana",
   "Analucia",
@@ -890,7 +890,7 @@ module.exports.mexico.female = [
   "Yvonne"
 ]
 
-module.exports.mexico.lastName = [
+module.exports.mexican.lastName = [
   "Hernandez",
   "Garcia",
   "Martinez",
@@ -924,9 +924,9 @@ module.exports.mexico.lastName = [
 // ; ------------------------------------------
 // ; -------------- Arabian -------------------
 // ; ------------------------------------------
-module.exports.arabia = {}
+module.exports.arabian = {}
 
-module.exports.arabia.male = [
+module.exports.arabian.male = [
   "Mohammed",
   "Ahmed",
   "Ali",
@@ -943,7 +943,7 @@ module.exports.arabia.male = [
   "Khaled"
 ]
 
-module.exports.arabia.female = [
+module.exports.arabian.female = [
   "Aya",
   "Fatima",
   "Raniya",
@@ -959,7 +959,7 @@ module.exports.arabia.female = [
   "Safiya"
 ]
 
-module.exports.arabia.lastName = [
+module.exports.arabian.lastName = [
   "Haddad",
   "Khoury",
   "Hariri",
@@ -996,9 +996,9 @@ module.exports.arabia.lastName = [
 // ; ------------------------------------------
 // ; -------------- ENGLISH -------------------
 // ; ------------------------------------------
-module.exports.england = {}
+module.exports.english = {}
 
-module.exports.england.male = [
+module.exports.english.male = [
   "Jack",
   "Oliver",
   "Harry",
@@ -1016,7 +1016,7 @@ module.exports.england.male = [
   "Paul"
 ]
 
-module.exports.england.female = [
+module.exports.english.female = [
   "Emily",
   "Molly",
   "Sophie",
@@ -1034,7 +1034,7 @@ module.exports.england.female = [
   "Helen"
 ]
 
-module.exports.england.lastName = [
+module.exports.english.lastName = [
   "Smith",
   "Jones",
   "Williams",
@@ -1067,9 +1067,9 @@ module.exports.england.lastName = [
 // ; ------------------------------------------
 // ; -------------- FRENCH -------------------
 // ; ------------------------------------------
-module.exports.france = {}
+module.exports.french = {}
 
-module.exports.france.male = [
+module.exports.french.male = [
   "Bruno",
   "Augustin",
   "Bertrand",
@@ -1119,7 +1119,7 @@ module.exports.france.male = [
   "Zacharie"
 ]
 
-module.exports.france.female = [
+module.exports.french.female = [
   "Adele",
   "Agathe",
   "Amelie",
@@ -1159,7 +1159,7 @@ module.exports.france.female = [
   "Zoe"
 ]
 
-module.exports.france.lastNick = [
+module.exports.french.lastNick = [
   "Martine",
   "Bernard",
   "Dubois",
@@ -1253,9 +1253,9 @@ module.exports.german.lastName = [
 // ; -------------- AUSTRALIAN -------------------
 // ; ------------------------------------------
 
-module.exports.australia = {}
+module.exports.australian = {}
 
-module.exports.australia.male = [
+module.exports.australian.male = [
   "Jack",
   "James",
   "Ian",
@@ -1271,7 +1271,7 @@ module.exports.australia.male = [
   "Jay",
   "Steve"
 ]
-module.exports.australia.female = [
+module.exports.australian.female = [
   "Emily",
   "Holly",
   "Sarah",
@@ -1285,7 +1285,7 @@ module.exports.australia.female = [
   "Sarah"
 ]
 
-module.exports.australia.lastName = [
+module.exports.australian.lastName = [
   "Jones",
   "Williams",
   "Brown",
@@ -1309,8 +1309,8 @@ module.exports.australia.lastName = [
 // ; ------------------------------------------
 // ; -------------- ITALIAN -------------------
 // ; ------------------------------------------
-module.exports.italy = {}
-module.exports.italy.male = [
+module.exports.italian = {}
+module.exports.italian.male = [
   "Fabricio",
   "Alessandro",
   "Matteo",
@@ -1326,7 +1326,7 @@ module.exports.italy.male = [
   "Marco",
   "Maurizio"
 ]
-module.exports.italy.female = [
+module.exports.italian.female = [
   "Sofia",
   "Alessia",
   "Francesca",
@@ -1341,7 +1341,7 @@ module.exports.italy.female = [
   "Viviana",
   "Elisabetta"
 ]
-module.exports.italy.lastName = [
+module.exports.italian.lastName = [
   "Rossi",
   "Russo",
   "Ferrari",
@@ -1376,8 +1376,8 @@ module.exports.italy.lastName = [
 // ; -------------- JAPANESE -------------------
 // ; ------------------------------------------
 
-module.exports.japan = {}
-module.exports.japan.male = [
+module.exports.japanese = {}
+module.exports.japanese.male = [
   "Daichi",
   "Daisuke",
   "Hiroki",
@@ -1401,7 +1401,7 @@ module.exports.japan.male = [
   "Hideo"
 ]
 
-module.exports.japan.female = [
+module.exports.japanese.female = [
   "Aiko",
   "Akemi",
   "Ayaka",
@@ -1427,7 +1427,7 @@ module.exports.japan.female = [
   "Yuzuki"
 ]
 
-module.exports.japan.lastName = [
+module.exports.japanese.lastName = [
   "Sato",
   "Suzuki",
   "Takahashi",
@@ -1476,9 +1476,9 @@ module.exports.japan.lastName = [
 // ; ------------------------------------------
 // ; -------------- ISRAELI -------------------
 // ; ------------------------------------------
-module.exports.israel = {}
+module.exports.israeli = {}
 
-module.exports.israel.male = [
+module.exports.israeli.male = [
   "Abraham",
   "Adam",
   "Ari",
@@ -1514,7 +1514,7 @@ module.exports.israel.male = [
   "Yaron"
 ]
 
-module.exports.israel.female = [
+module.exports.israeli.female = [
   "Adina",
   "Aliza",
   "Ariel",
@@ -1547,7 +1547,7 @@ module.exports.israel.female = [
   "Tova"
 ]
 
-module.exports.israel.lastName = [
+module.exports.israeli.lastName = [
   "Cohen",
   "Levi",
   "Mizrachi",
@@ -1581,8 +1581,8 @@ module.exports.israel.lastName = [
 // ; ------------------------------------------
 // ; -------------- SPANISH -------------------
 // ; ------------------------------------------
-module.exports.spain = {}
-module.exports.spain.male = [
+module.exports.spainish = {}
+module.exports.spainish.male = [
   "Alfonso",
   "Bernardo",
   "Carlos",
@@ -1608,7 +1608,7 @@ module.exports.spain.male = [
   "Victor"
 ]
 
-module.exports.spain.female = [
+module.exports.spainish.female = [
   "Alicia",
   "Ana",
   "Andrea",
@@ -1634,7 +1634,7 @@ module.exports.spain.female = [
   "Yolanda"
 ]
 
-module.exports.spain.lastName = [
+module.exports.spainish.lastName = [
   "Garcia",
   "Fernandez",
   "Gonzales",
@@ -1667,8 +1667,8 @@ module.exports.spain.lastName = [
 // ; ------------------------------------------
 // ; -------------- GREEK -------------------
 // ; ------------------------------------------
-module.exports.greece = {}
-module.exports.greece.male = [
+module.exports.greek = {}
+module.exports.greek.male = [
   "Giorgios",
   "Konstantinos",
   "Dimitrios",
@@ -1706,7 +1706,7 @@ module.exports.greece.male = [
   "Zorba"
 ]
 
-module.exports.greece.female = [
+module.exports.greek.female = [
   "Maria",
   "Eleni",
   "Katerina",
@@ -1737,7 +1737,7 @@ module.exports.greece.female = [
   "Zoe"
 ]
 
-module.exports.greece.lastName = [
+module.exports.greek.lastName = [
   "Papadoupolous",
   "Nicolo",
   "Petridis",
@@ -1768,8 +1768,8 @@ module.exports.greece.lastName = [
 // ; ------------------------------------------
 // ; -------------- NORWEGIAN -------------------
 // ; ------------------------------------------
-module.exports.norway = {}
-module.exports.norway.male = [
+module.exports.norwegian = {}
+module.exports.norwegian.male = [
   "Anders",
   "Arne",
   "Bjarne",
@@ -1799,7 +1799,7 @@ module.exports.norway.male = [
   "Svein"
 ]
 
-module.exports.norway.female = [
+module.exports.norwegian.female = [
   "Anette",
   "Astrid",
   "Brit",
@@ -1822,7 +1822,7 @@ module.exports.norway.female = [
   "Therese"
 ]
 
-module.exports.norway.lastName = [
+module.exports.norwegian.lastName = [
   "Hansen",
   "Johansen",
   "Olsen",
@@ -1845,8 +1845,8 @@ module.exports.norway.lastName = [
 // ; ------------------------------------------
 // ; -------------- IRISH -------------------
 // ; ------------------------------------------
-module.exports.ireland = {}
-module.exports.ireland.male = [
+module.exports.irish = {}
+module.exports.irish.male = [
   "Jack",
   "Sean",
   "Seamus",
@@ -1872,7 +1872,7 @@ module.exports.ireland.male = [
   "Kellen"
 ]
 
-module.exports.ireland.female = [
+module.exports.irish.female = [
   "Aileen",
   "Caitlin",
   "Ciara",
@@ -1894,7 +1894,7 @@ module.exports.ireland.female = [
   "Grace"
 ]
 
-module.exports.ireland.lastName = [
+module.exports.irish.lastName = [
   "Murphy",
   "Kelly",
   "O'Sullivan",
@@ -1927,8 +1927,8 @@ module.exports.ireland.lastName = [
 // ; ------------------------------------------
 // ; -------------- SOUTH KOREAN -------------------
 // ; ------------------------------------------
-module.exports.korea = {}
-module.exports.korea.male = [
+module.exports.korean = {}
+module.exports.korean.male = [
   "Minjoon",
   "Ji Hoon",
   "Minjae",
@@ -1951,7 +1951,7 @@ module.exports.korea.male = [
   "Yong Sun"
 ]
 
-module.exports.korea.female = [
+module.exports.korean.female = [
   "Ji Woo",
   "Ji Min",
   "Ji Yung",
@@ -1970,7 +1970,7 @@ module.exports.korea.female = [
   "Mi Hi"
 ]
 
-module.exports.korea.lastName = [
+module.exports.korean.lastName = [
   "Kim",
   "Lee",
   "Park",
@@ -1993,8 +1993,8 @@ module.exports.korea.lastName = [
 // ; ------------------------------------------
 // ; -------------- DUTCH -------------------
 // ; ------------------------------------------
-module.exports.netherlands = {}
-module.exports.netherlands.male = [
+module.exports.dutch = {}
+module.exports.dutch.male = [
   "Jacob",
   "Johannes",
   "Dirk",
@@ -2009,7 +2009,7 @@ module.exports.netherlands.male = [
   "Hendrik"
 ]
 
-module.exports.netherlands.female = [
+module.exports.dutch.female = [
   "Adriana",
   "Anna",
   "Corrie",
@@ -2025,7 +2025,7 @@ module.exports.netherlands.female = [
   "Lisbet"
 ]
 
-module.exports.netherlands.lastName = [
+module.exports.dutch.lastName = [
   "Jansen",
   "VanDyke",
   "Visser",
@@ -2051,9 +2051,9 @@ module.exports.netherlands.lastName = [
 // ; ------------------------------------------
 // ; -------------- SCOTTISH -------------------
 // ; ------------------------------------------
-module.exports.scotland = {}
+module.exports.scottish = {}
 
-module.exports.scotland.male = [
+module.exports.scottish.male = [
   "Alan",
   "Hugh",
   "Angus",
@@ -2077,7 +2077,7 @@ module.exports.scotland.male = [
   "Robert"
 ]
 
-module.exports.scotland.female = [
+module.exports.scottish.female = [
   "Bridget",
   "Lexi",
   "Dolly",
@@ -2100,7 +2100,7 @@ module.exports.scotland.female = [
   "Penny",
   "Joan"
 ]
-module.exports.scotland.lastName = [
+module.exports.scottish.lastName = [
   "Robertson",
   "Campbell",
   "Stewart",
@@ -2132,8 +2132,8 @@ module.exports.scotland.lastName = [
 // ; ------------------------------------------
 // ; -------------- BELGIAN -------------------
 // ; ------------------------------------------
-module.exports.belgium = {}
-module.exports.belgium.male = [
+module.exports.belgian = {}
+module.exports.belgian.male = [
   "Lars",
   "Lucas",
   "Noah",
@@ -2148,7 +2148,7 @@ module.exports.belgium.male = [
   "Adrien"
 ]
 
-module.exports.belgium.female = [
+module.exports.belgian.female = [
   "Lina",
   "Clara",
   "Emma",
@@ -2164,7 +2164,7 @@ module.exports.belgium.female = [
   "Chloe"
 ]
 
-module.exports.belgium.lastName = [
+module.exports.belgian.lastName = [
   "Peeters",
   "Wouters",
   "Jacobs",
